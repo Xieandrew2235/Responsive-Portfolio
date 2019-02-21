@@ -3,7 +3,6 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
 }
 
 * {
@@ -218,6 +217,33 @@ input[type=submit] {
 
 @media screen and (max-width: 980px) {
   .body {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .auth-image {
+    float: none;
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  #logo {
+    display: block;
+    float: none;
+    margin: auto;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  nav {
+    display: block;
+    float: none;
+    margin: auto;
     width: 100%;
   }
 }
