@@ -2,8 +2,9 @@
 
 ## Link to my portfolio
 Code link: https://github.com/Xieandrew2235/Responsive-Portfolio
+<br>
 Deployed link: https://xieandrew2235.github.io/Responsive-Portfolio/
-
+<br>
 ![Screenshot](assets/images/screenshot.png)
 
 ### How I put this (updated) portfolio together
