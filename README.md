@@ -1,23 +1,20 @@
 # Andrew Xie
 
-## About Me
+## Link to my portfolio
+Code link: https://github.com/Xieandrew2235/Responsive-Portfolio
+Deployed link: https://xieandrew2235.github.io/Responsive-Portfolio/
 
-Hi I'm Andrew. A fun fact about myself is that I can speak Cantonese and Mandarin fluently because I spent almost 5 years in Beijing, China from 2013-2018.
+![Screenshot](assets/images/screenshot.png)
 
-### How I put this portfolio together
+### How I put this (updated) portfolio together
 
-Since a starter template was given for this assignment, the main goal was to make the content responsible at 980px, 768px, and 640px. The main adjustments were made in the style.css file, which included:
-
-* Media query tags (which included making the header static at 640px, a requirement)
-* Adding viewport tags to the HTML
-
-Initially, I struggled with getting the layout of my page to sit according to the example, but with the guidance of Jacob and one of the code drills, I learned to insert "display: block" in order to make "float: none and margin:auto" function properly. Later on, I also had a hard time getting the image in index.html to respond accordingly with the text sitting next to it, but after playing around a bit with the Google Dev Inspect Tool, I was able to work around it and get it to look somewhat like the examples given for this assignment.
+By recycling my Responsive Portfolio, I was able to update my portfolio with a much more detailed "About Me", which includes a link to my Github repository, my email, and my number. In the portfolio section I included screenshots of 3 homework assignments, along with Project 1, and their respective links to the code and the deployed version. My LinkedIn is also added into my updated profile (in the navbar), but I still have a lot of work to do to clean up my LinkedIn page. Another addition I made was adding Google Fonts to this page, along with different colors and adjustments to the css sheet.
 
 ### What I did not complete
 
-* I didn't make much adjustments at 980px and 768px because it seemed that the page was looking to be about right, and 640px took a good amount of time to complete as well, because I initially tried out a bunch of things that didn't really work well together, and for better or worse, my computer crashed Monday, which forced me to start from scratch and simply/clean up the CSS file.
+* The portfolio is mobile-responsive, but for the image placeholder I used in the about me section, it shrinks to a large size, which was a problem I originally had with my Responsive Portfolio that I was not able to fix, even with the assistance of the TA's and classmates.
 
-*Another thing that is still a problem at submission, is that the cat gets bigger than its supposed to be when reduced to 640px, which I couldn't figure out as well.
+* The screenshots in "Portfolio" section are also poorly sized, which I've been trying to fix for a bit with Google Inspect but have not gotten them to all work at the same size yet, similiar to an issue I had with the GifTastic assignment.
 
-Overall, both assignments were really challenging, and I definitely wouldn't say that one is easier than the other; Bootstrap is easier to create a page overall, while the use of style.css in the non-Bootstrap made it easier to mess around with the dev tools/inspect and make changes there. It'll still take some more practice for me to get comfortable with media queries, but hopefully along with the feedback from this assignment, I'll be able to clean up the mistakes that were commited in this assignment.
+* I wanted to make the submit button send an email to a designed email address, but so far it hasn't worked. I found some logic online that I was trying out but it didn't send me an email upon clicking the submit button.
 
